@@ -55,11 +55,11 @@ p {
 footer.page-footer {
   margin: 0;
 }
-#download-button > i {
+.download-button > i {
   transform: translateY(5px);
 }
 
-#download-button {
+.download-button {
   line-height: 3em;
 }
 
