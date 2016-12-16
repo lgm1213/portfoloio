@@ -61,6 +61,7 @@ footer.page-footer {
 
 .download-button {
   line-height: 3em;
+
 }
 
 .parallax img {
@@ -86,3 +87,15 @@ footer.page-footer {
 h1 .header {
   color: #CC0000;
  }
+
+
+.btn-large{
+  min-width: 160px;
+}
+
+.carousel-slider {
+  border: 4px solid #ffc107;
+}
+
+
+
